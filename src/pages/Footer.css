@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    color: hsl(19, 95%, 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+  }
+  
+  .footer p {
+    color: white;
+    margin: 0;
+    text-align: center;
+  }
